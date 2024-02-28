@@ -42,3 +42,29 @@ nav ul li {
 nav ul li a {
   text-decoration: none;
 }
+/* CART IMAGE */
+.cart-image {
+  width: 40px;
+  float: right;
+  top: 20%;
+}
+
+/* MAIN CONTENT */
+
+.main-content {
+  margin-left: 20%;
+  margin-top: 10%;
+}
+
+.main-content h1,
+p {
+  font-size: 20px;
+  font-weight: 10px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  color: darkblue;
+}
+
+.main-content p {
+  color: blueviolet;
+}
