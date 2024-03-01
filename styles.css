@@ -99,3 +99,16 @@ margin-left: 40px;
   bottom: 0;
   height: 80%;
 }
+
+.social-icons{
+  position: fixed;
+  top: 40%;
+  left: 5%;
+  width: 50px;
+}
+
+.social-icons img{
+  width: 25px;
+  padding: 20px;
+  margin: auto 20px;
+}
